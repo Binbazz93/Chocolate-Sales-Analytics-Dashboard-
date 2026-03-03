@@ -42,7 +42,7 @@ This project demonstrates end-to-end Power BI development, from data cleaning an
 ## How to View the Dashboard  
 
 - 
-- ![Chocolate Dashbboard]
+- ![Chocolate Dashbboard](chocolate_Project.pbix)
 - See full dashboard here -  [App Power Bi ling](https://app.powerbi.com/links/uL2N1y6lEV?ctid=da850715-bf86-4983-ae11-1756ac3d9894&pbi_source=linkShare)
 
 ---
